@@ -35,7 +35,7 @@
     "build-storybook": "yarn build; NODE_PATH=src/ NODE_ENV=production build-storybook -s public --quiet"
   },
   "dependencies": {
-    "gatsby": "^2.17.0",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-postcss": "^2.1.13",
     "gatsby-plugin-react-helmet": "^3.1.13",
     "gatsby-plugin-resolve-src": "^2.0.0",
